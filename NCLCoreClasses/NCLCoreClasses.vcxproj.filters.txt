@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\CMakeFiles\NCLCoreClasses.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Assets.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\SimpleFont.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\TextureLoader.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\TextureWriter.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Maths.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Matrix2.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Matrix3.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Matrix4.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Plane.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Frustum.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Quaternion.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Vector2.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Vector3.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Vector4.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Vector2i.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Vector3I.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Vector4I.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\MeshAnimation.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Mesh.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\MshLoader.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\MeshMaterial.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\RendererBase.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Shader.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Texture.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\GameTimer.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Keyboard.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Mouse.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Window.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Controller.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\KeyboardMouseController.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Win32Keyboard.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Win32Mouse.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2023\NCLCoreClasses\Win32Window.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Assets.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\SimpleFont.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\TextureLoader.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\TextureWriter.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Maths.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Matrix2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Matrix3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Matrix4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Plane.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Frustum.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Quaternion.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\NewVector.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Vector2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Vector3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Vector4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Vector2i.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Vector3I.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Vector4I.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\MeshAnimation.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Mesh.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\MshLoader.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\MeshMaterial.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\RendererBase.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Shader.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Texture.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\GameTimer.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Keyboard.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Mouse.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Window.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Controller.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\KeyboardMouseController.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Win32Keyboard.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Win32Mouse.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\Win32Window.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\CMakeFiles\NCLCoreClasses.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503 2023\NCLCoreClasses\CMakeFiles\NCLCoreClasses.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="H:\CSC8503 2023\NCLCoreClasses\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Asset Handling">
+      <UniqueIdentifier>{B9896DC0-EC37-320D-84F9-4E4714DF654D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C2F05B32-677A-3088-A5C1-C6FFD912C648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Maths">
+      <UniqueIdentifier>{DD7EDB66-92A8-3F03-AAFB-D13E7B4CDF23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{854BFCED-4F09-3058-ABB0-B130CDA102A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rendering">
+      <UniqueIdentifier>{F74C6C71-FE6A-38A9-8207-934AEB474525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B147ED7F-4441-35C0-8CE8-23926516A2C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windowing and Input">
+      <UniqueIdentifier>{3D4F9616-0C63-3CC3-A9DE-B92505A7C2F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windowing and Input\Win32">
+      <UniqueIdentifier>{85E0FA08-771A-36AE-AA27-296A82D3462F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
